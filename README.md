@@ -6,7 +6,7 @@ The New York Times Mongo News Scraper gathers articles based on a custom cheerio
 
 Technologies Used: MongoDB, Express, Node, Handlebars, Cheerio as well as Javascript, HTML, CSS, Bootstrap, jQuery.
 
-
+![](scraper.png)
 
 Deployed app can be found in the Heroku link below.
 
